@@ -1,5 +1,6 @@
 # focus_editor_if_title_specified
-# initially created using the command:
+
+Initially created using the command:
 ```discourse_theme new focus_editor_if_title_specified```
 
 **Theme Summary**
