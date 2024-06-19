@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: This component makes it so that if you have a shortcut new-message
+      that includes a title, when the new message pops up, the focus will be on the
+      editor, rather than the - already specified - title.
